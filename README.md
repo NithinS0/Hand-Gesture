@@ -1,2 +1,4 @@
-# Hand-Gesture
-Develop a hand gesture recognition model that can accurately identify and classify different hand gestures from image or video data, enabling intuitive human-computer interaction and gesture-based control systems.
+# SVM
+Implement a support vector machine (SVM) to classify images of cats and dogs from the Kaggle dataset.
+
+
